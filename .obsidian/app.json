@@ -1,0 +1,22 @@
+{
+  "promptDelete": false,
+  "trashOption": "local",
+  "newFileLocation": "current",
+  "alwaysUpdateLinks": true,
+  "newLinkFormat": "absolute",
+  "attachmentFolderPath": "Attachments/Images",
+  "readableLineLength": false,
+  "strictLineBreaks": false,
+  "defaultViewMode": "source",
+  "smartIndentList": true,
+  "pdfExportSettings": {
+    "includeName": true,
+    "pageSize": "A4",
+    "landscape": false,
+    "margin": "0",
+    "downscalePercent": 100
+  },
+  "userIgnoreFilters": [
+    "Attachments/"
+  ]
+}

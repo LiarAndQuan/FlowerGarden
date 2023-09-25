@@ -1,0 +1,209 @@
+{
+  "main": {
+    "id": "337c124cffb3b53e",
+    "type": "split",
+    "children": [
+      {
+        "id": "5cf8aeba201f2d9c",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "42cd1879ca1ddd15",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Algorithm.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "630d79c9e95a93c7",
+    "type": "split",
+    "children": [
+      {
+        "id": "d43a96fe0ccfa8c4",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "34f5b810a501b37e",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {}
+            }
+          },
+          {
+            "id": "b029733bd6035bb9",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "b08c618fc9600124",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "byCreatedTimeReverse"
+              }
+            }
+          },
+          {
+            "id": "0760a2e5183cad93",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ],
+        "currentTab": 2
+      }
+    ],
+    "direction": "horizontal",
+    "width": 239.5
+  },
+  "right": {
+    "id": "240823aeadc79cdb",
+    "type": "split",
+    "children": [
+      {
+        "id": "ed9ff0cae39297f0",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "3a0d1e66c232264c",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Algorithm.md"
+              }
+            }
+          },
+          {
+            "id": "994b69370f276e5e",
+            "type": "leaf",
+            "state": {
+              "type": "advanced-tables-toolbar",
+              "state": {}
+            }
+          },
+          {
+            "id": "65d7f7262b52ec7a",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Algorithm.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "6cc8b8b1b470a39c",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Algorithm.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "1e7b8a3b3c5e4f07",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 332.5
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:打开快速切换": false,
+      "graph:查看关系图谱": false,
+      "canvas:新建白板": false,
+      "command-palette:打开命令面板": false,
+      "markdown-importer:打开 Markdown 格式转换器": false,
+      "table-editor-obsidian:Advanced Tables Toolbar": false,
+      "oz-clear-unused-images:Clear Unused Images": false
+    }
+  },
+  "active": "42cd1879ca1ddd15",
+  "lastOpenFiles": [
+    "博客.md",
+    "函数式编程.md",
+    "Springboot.md",
+    "Algorithm.md",
+    "SSM整合.md",
+    "MyBatis.md",
+    "MySQL.md",
+    "Spring FrameWork.md",
+    "SpringMVC.md",
+    "硅谷甄选项目笔记.md",
+    "SpringSecurity.md",
+    "vue3快速上手.md",
+    "Maven.md",
+    "Attachments/Images/Pasted image 20230811223622.png",
+    "Attachments/Images/Pasted image 20230727222335.png",
+    "Vue3.md",
+    "未命名.md",
+    "img/image-20211222110249727.png",
+    "img/image-20211222110238165.png",
+    "img/image-20211219121555979.png",
+    "img/image-20211216123945882.png",
+    "img/image-20211215095331510.png",
+    "img/image-20211215094003288.png",
+    "img/image-20211215093906256.png",
+    "img/image-20211214151515385.png",
+    "数据库.md",
+    "SSM/未命名.md",
+    "四篇.md",
+    "未命名",
+    "尚硅谷前端技术之Promise.md",
+    "2.md",
+    "1.md",
+    "函数式编程.assets",
+    "Mybatis Plus.md",
+    "img",
+    "image",
+    "Maven/常用命令.md",
+    "Maven/核心概念.md",
+    "Algorithm/UNIT ONE  READING REPORT.md",
+    "Algorithm/未命名",
+    "Algorithm"
+  ]
+}
